@@ -1,4 +1,5 @@
 ## zna
-Een automatisch agenda beheer systeem dat automatisch alle vergaderingen van de dag toont aan de ingang van elke vergaderzaal.
+Een dynamische menu cyclus dat in Excel gemaakt is wordt dag per dag getoond op het scherm, bij elk gerecht wordt aangetoond welke allergenen dit bevat.
 
-![zna](https://github.com/ElleCrehel/ZNA/assets/102219049/081585a9-c65b-4403-a860-d0f5602fa9db)
+![zna](https://github.com/ElleCrehel/ZNA/assets/102219049/7c89ae03-2399-4c47-8c19-598f16675dec)
+
